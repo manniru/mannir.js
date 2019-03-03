@@ -1,0 +1,25 @@
+{
+  "name": "mannirjs",
+  "version": "0.0.1",
+  "description": "Mannir NodeJS Usefull Libraries",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manniru/mannir.js.git"
+  },
+  "keywords": [
+    "Mannir",
+    "NodeJS",
+    "ES6",
+    "ReactJS"
+  ],
+  "author": "Muhammad Mannir Ahmad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manniru/mannir.js/issues"
+  },
+  "homepage": "https://github.com/manniru/mannir.js#readme"
+}
